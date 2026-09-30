@@ -1,0 +1,26 @@
+# Environment variables (API Keys)
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector database cache / data
+vector_db/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
