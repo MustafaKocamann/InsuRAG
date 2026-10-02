@@ -18,6 +18,10 @@ __pycache__/
 
 # Vector database cache / data
 vector_db/
+preprocessed_db/
+
+# Private knowledge base data
+knowledge-base/
 
 # OS / IDE
 .DS_Store
